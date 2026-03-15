@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Base de datos local
+db.sqlite3
+
+# Archivos de entorno
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Archivos compilados
+*.log
+*.pot
+*.pyc
+
+# Archivos de migraciones compiladas
+*/migrations/*.pyc
