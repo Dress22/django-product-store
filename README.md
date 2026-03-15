@@ -69,7 +69,7 @@ urls.py → ruteo de la aplicación
 3. Crear y activar un entorno virtual:
 
    ```python -m venv venv source venv/bin/activate```  
-   # En Windows: ```venv\Scripts\activate```
+    En Windows: ```venv\Scripts\activate```
 
 4. Instalar dependencias:
 
